@@ -1,2 +1,2 @@
 def plus(a, b):
-    return a + b + 9
+    return a + b
